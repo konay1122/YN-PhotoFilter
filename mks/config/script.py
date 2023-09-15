@@ -2,13 +2,20 @@ class Script(object):
     START_TXT = """HEY...HEY... {} 💖
 
 
-ကျွန်ုပ်သည် စွမ်းရည်များစွာရှိသော 
-အဆင့်မြင့် Auto filter bot တစ်ခုဖြစ်သည်။
-ကျွန်ုပ်၏ Auto filter မှာ ကန့်သတ်ချက်မရှိပါ။
+YN မှ Special Auto Filter ဟာ ...
+ရုပ်ရှင်များ ရှာပေးတဲ့ Bot ဖြစ်ပါတယ်။
+
+Movies များရှာရန် YN Request Group ကို Join ပေးပါနော် ။
+👇👇
+https://t.me/+XTScHquCH0A0ZTQ1
+
+🚨သင်သာ ရုပ်ရှင်နာမည် မှန်အောင်ရိုက်ပါ
+
+🥰ဘယ်ကားဖြစ်ဖြစ်လင့်ရပါမယ်နော်...
 
 - - - - - - - - - - - - - - -
 For your bot editing
-Contact :- @thuta2002
+Contact :- @YoeNaung
 - - - - - - - - - - - - - - -"""
 
     HELP_TXT = """🙋🏻‍♂️   𝖧𝖾𝗅𝗅𝗈  {} 🤓
@@ -33,19 +40,18 @@ Contact :- @thuta2002
 
 𝖣𝗈𝗇𝗍 𝖲𝗉𝖺𝗆 𝖬𝖾...🤒
 
-😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @thuta2002"""
+😎 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @YoeNaung"""
 
 
-    VIP_LINK = "https://t.me/+euCGV7c-OVQ3YTQ1"
+    VIP_LINK = "https://t.me/YN_VIP_Series_ListAndPoster"
     
-    ALL_LINK = "https://t.me/WMCChannelLink"
+    ALL_LINK = "https://t.me/YNmovieone/7324"
     
-    CH_LINK = "https://t.me/WMCChannelLink"
+    CH_LINK = "https://t.me/YNMovie_SeriesBank"
     
-    GP_LINK = "https://t.me/WinterMovesRequestGroup"
-    
-    SUPPORT_LINK = "https://t.me/WMCChannelLink"
+    GP_LINK = "https://t.me/+XTScHquCH0A0ZTQ1"
 
+    SUPPORT_LINK = "https://t.me/+XTScHquCH0A0ZTQ1"
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
@@ -132,7 +138,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 𝖳𝗈𝗍𝖺𝗅 𝖢𝗁𝖺𝗍𝗌: <code>{}</code>
 𝖴𝗌𝖾𝖽 𝖲𝗍𝗈𝗋𝖺𝗀𝖾: <code>{}</code>
 
-<b>😉 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @thuta2002</b>"""
+<b>😉 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 @YoeNaung</b>"""
 
     LOG_TEXT_G = """#NewGroup
 Gʀᴏᴜᴘ = {}(<code>{}</code>)
@@ -196,14 +202,19 @@ Message <i>: {}</i>"""
 
 🖇 <em>File Size</em>: <code>{file_size}</code>  """
 
-    IMDB_TEMPLATE_TXT = """
+    IMDB_TEMPLATE_TXT = """🥰မိတ်ဆွေခင်ဗျ🥰
 
-🏷 𝖳𝗂𝗍𝗅𝖾: <a href={url}>{title}</a> - {year} 
+ဒီစီးရီးကို YN English Series VIP မှာတင်ထားပါတယ်။
 
-⭐️ 𝖱𝖺𝗍𝗂𝗇𝗀𝗌: {rating}/ 10  
-🎭 𝖦𝖾𝗇𝖾𝗋𝗌: {genres} 
+⭐️Lifetime ၃၀၀၀ ကျပ်နဲ့ မန်ဘာဝင်ပြီးကြည့်နိုင်ပါတယ်။
 
-🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『Thuta』](t.me/thuta2002)
+<a href='https://t.me/YNVIPMEMBERBOT'>💫အသေးစိတ်ကြည့်ရန် ဤနေရာကိုနှိပ်ပါ</a>
+
+<a href='https://t.me/YN_VIP_Series_ListAndPoster'>🟢စီးရီးအမည်ကြည့်ရန် ဤနေရာကိုနှိပ်ပါ</a>
+
+<a href='https://t.me/YoeNaung'>😘Adminနဲ့ပြောရန် ဤနေရာကိုနှိပ်ပါ</a>
+
+🎊 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 [『..DR YOE..』](t.me/YoeNaung)
 
 """
     
@@ -256,8 +267,8 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
    ● 
       
 ✯ Bot Managed By:
-   ● @nas0055
-   ● @thuta2002
+   ● @YoeNaung
+   ● 
    ● 
    
 ✯ For your bot editing
@@ -269,16 +280,16 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 Special Thanks to LUCIFER for the codes 
 <b>DEV:</b>
 
-- <a href=https://t.me/KOPAINGLAY15>『KO PAING』</a>
+- <a href=https://t.me/YoeNaung>『..Dr Yoe..』</a>
 
-- Source - https://t.me/KOPAINGLAY15""" #please don't change repo link give credit :)
+- Source - https://t.me/YNmovieone""" #please don't change repo link give credit :)
     
     
     ABOUT_TXT = """<b>○ 𝖬𝗒 𝖭𝖺𝗆𝖾: {}
-○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/KOPAINGLAY15'>KO PAING</a>
+○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/YoeNaung'>Dr Yoe</a>
 ○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥 
 ○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖺𝗌𝗒𝗇𝖼𝗂𝗈 𝟢.𝟣𝟩.𝟣 
 ○ 𝖲𝖾𝗋𝗏𝖾𝗋 : Contabo
 ○ 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 : <a href='https://www.mongodb.com'>𝖬𝗈𝗇𝗀𝗈𝖣𝖡 𝖥𝗋𝖾𝖾 𝖳𝗂𝖾𝗋</a>
 ○ 𝖡𝗎𝗂𝗅𝖽 𝖲𝗍𝖺𝗍𝗎𝗌 : v1.0.1 [BeTa]
-"""    
+"""     
